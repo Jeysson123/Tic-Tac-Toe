@@ -1,0 +1,45 @@
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\Service_GUID.deps.json
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\Service_GUID.dll
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\ref\Service_GUID.dll
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\Service_GUID.pdb
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\ModelGUID.dll
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\ModelGUID.pdb
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.csproj.AssemblyReference.cache
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.AssemblyInfoInputs.cache
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.AssemblyInfo.cs
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.csproj.CoreCompileInputs.cache
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.csproj.CopyComplete
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.dll
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\ref\Service_GUID.dll
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.pdb
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\Service_GUID.deps.json
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\Service_GUID.dll
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\ref\Service_GUID.dll
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\Service_GUID.pdb
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\ModelGUID.dll
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\bin\Debug\net5.0\ModelGUID.pdb
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.AssemblyInfo.cs
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.csproj.CopyComplete
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.dll
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\ref\Service_GUID.dll
+C:\Users\PC\Downloads\Courses\CURSO-C#\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.pdb
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\bin\Debug\net5.0\Service_GUID.deps.json
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\bin\Debug\net5.0\Service_GUID.dll
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\bin\Debug\net5.0\ref\Service_GUID.dll
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\bin\Debug\net5.0\Service_GUID.pdb
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\bin\Debug\net5.0\ModelGUID.dll
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\bin\Debug\net5.0\ModelGUID.pdb
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.AssemblyInfo.cs
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.csproj.CopyComplete
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.dll
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\obj\Debug\net5.0\ref\Service_GUID.dll
+C:\Users\PC\Downloads\Tic-Tac-Toe\.NET Version\3En1\Service_GUID\obj\Debug\net5.0\Service_GUID.pdb

@@ -1,0 +1,12 @@
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\bin\Release\net5.0\ModelGUID.deps.json
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\bin\Release\net5.0\ModelGUID.dll
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\bin\Release\net5.0\ref\ModelGUID.dll
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\bin\Release\net5.0\ModelGUID.pdb
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\obj\Release\net5.0\ModelGUID.csproj.AssemblyReference.cache
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\obj\Release\net5.0\ModelGUID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\obj\Release\net5.0\ModelGUID.AssemblyInfoInputs.cache
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\obj\Release\net5.0\ModelGUID.AssemblyInfo.cs
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\obj\Release\net5.0\ModelGUID.csproj.CoreCompileInputs.cache
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\obj\Release\net5.0\ModelGUID.dll
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\obj\Release\net5.0\ref\ModelGUID.dll
+C:\Users\robert.nin\Downloads\CURSO-C#\3En1\ModelGUID\obj\Release\net5.0\ModelGUID.pdb

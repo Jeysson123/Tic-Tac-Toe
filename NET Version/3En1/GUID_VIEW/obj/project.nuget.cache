@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tz/KQLlIb4t53rB9Y/VU5xfzv3tMjVu0HuvPRaJ0wqtEdioYX2/PVf+ebnWHBekDyIHKwhj04Q4cKJDAM7A4pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Downloads\\Tic-Tac-Toe\\.NET Version\\3En1\\GUID_VIEW\\GUID_VIEW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
